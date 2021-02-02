@@ -73,7 +73,7 @@ export default class About extends Component {
                                         <p> Improve and streamline CI/CD process to reduce our time to market </p>
                                         <p> Guide team members towards solution to complex devops problems </p>
                                         <p> Advocate of Infrastructure as code and CI/CD </p>
-                                        <p> Hands on expierence on - Jenkins, Shell script, PCF, Splunk, Kafka. </p>
+                                        <p> Expierence on - Jenkins, Shell script, PCF, Splunk, Kafka. </p>
                                     </div>
                                 </div>
                             </div>

@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\images",
+    "\\public\\fonts\\icomoon",
     "\\src",
     "\\src\\components"
   ],
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
